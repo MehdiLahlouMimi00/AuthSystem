@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IFxK8NkpuTTnycGrFLxkW+OaN2abIFJtqIxkXlj498S1I71er4IfDRtbH7R3gkmgb5sjN4ufeWoKIOJp2kcprw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mehdi\\source\\repos\\Auth system\\Auth system\\Auth system.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehdi\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\mehdi\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.1\\microsoft.identitymodel.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\mehdi\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.1\\microsoft.identitymodel.jsonwebtokens.7.0.1.nupkg.sha512",
+    "C:\\Users\\mehdi\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.1\\microsoft.identitymodel.logging.7.0.1.nupkg.sha512",
+    "C:\\Users\\mehdi\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.1\\microsoft.identitymodel.tokens.7.0.1.nupkg.sha512",
+    "C:\\Users\\mehdi\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.1\\system.identitymodel.tokens.jwt.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
